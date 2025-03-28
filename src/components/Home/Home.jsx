@@ -72,7 +72,7 @@ const Home = () => {
           <h1 className="text-2xl font-bold">Swap Portal</h1>
           <div className="space-x-4">
             <Link to="/" className="bg-blue-500 px-4 py-2 rounded text-white hover:bg-blue-600 transition">Logout</Link>
-            <Link to="/forgot-password" className="bg-gray-700 px-4 py-2 rounded text-white hover:bg-gray-600 transition">Change Password</Link>
+            <Link to="/forgot" className="bg-gray-700 px-4 py-2 rounded text-white hover:bg-gray-600 transition">Change Password</Link>
           </div>
         </nav>
         
